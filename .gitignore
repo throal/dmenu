@@ -1,0 +1,5 @@
+dmenu
+config.h
+*.o
+*.rej
+*.orig
